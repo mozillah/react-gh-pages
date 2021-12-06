@@ -1,0 +1,247 @@
+{
+"Objectives":[
+  {
+  "title":"Lorem ipsum",
+  "paragraph":""
+  }, {
+  "title":"Lorem ipsum",
+  "paragraph":""
+  }, {
+  "title":"Lorem ipsum",
+  "paragraph":""
+},{ 
+  "title":"Lorem ipsum",
+  "paragraph":""
+}
+],
+"Beliefs":[
+{"title":"Equality","icon":"ri-bar-chart-box-line","color": "#5578ff"},
+{"title":"Validity","icon":"ri-calendar-todo-line","color": "#e80368"},
+{"title":"Commitment","icon":"ri-paint-brush-line","color": "#e80368"},
+{"title":"Accountability","icon":"ri-database-2-line","color": "#e80368"},
+{"title":"Commitment","icon":"ri-disc-line","color": "#e80368"},
+{"title":"Excellence","icon":"ri-anchor-line","color": "#e80368"},
+{"title":"Transparency","icon":"ri-anchor-line","color": "#e80368"},
+{"title":"Data protection","icon":"ri-price-tag-2-line","color": "#ffa76e"},
+{"title":"Customer focus","icon":"ri-file-list-3-line","color":"#11dbcf"},
+{"title":"Customer focus","icon":"ri-file-list-3-line","color": "#11dbcf"}
+]
+,
+
+
+"FAQS":[
+ 
+  {
+    "question":"What is your need of emergence?",
+  "answer":"In response to the urgent need for an assessment service in the National recruitment policies and the Policy of the Government of Azad Jammu & Kashmir ‘Kashmir Testing Service (KTS) was established in September 2021.  KTS , being Azad Kashmir’s first and an independent, premier testing agency, which conducts tests and evaluates student admissions, scholarships, recruitment and promotional purposes. It is governed by a Management Committee."
+}
+ , {
+    "question":"What is your Vision?",
+  "answer":"An internationally recognized testing and evaluation organization that enables it to produce  educated and competitive market individuals. "
+}
+  ,
+
+  {
+    "question":"What is your Mission?",
+  "answer":"To develop and promote educational and professional testing and assessment standards."
+  
+},
+  {
+    "question":"What is your policy?",
+  "answer":"High quality testing of International Standards .Ensure merit based selection Justice for all.  KTS aims to conduct tests and assessments fairly and independently."
+}
+]
+,
+
+  "Vision":{
+    "title":"Vision",
+      "paragraph":"An internationally recognized testing and evaluation organization that enables it to produce educated and competitive market individuals."
+  },
+    "Hero": {
+      "title": "Vision",
+      "paragraph": "An internationally recognized testing and evaluation organization that enables it to produce educated and competitive market individuals."
+    },
+    "About": {
+      "Mission": "To develop and promote educational and professional testing and assessment standards.",
+      "Why": [
+        "Lorem ipsum dolor",
+        "Tempor incididunt",
+        "Lorem ipsum dolor",
+        "Incididunt ut labore"
+      ],
+      "Why2": [
+        "Aliquip ex ea commodo",
+        "Lorem ipsum dolor",
+        "Exercitation ullamco",
+        "Lorem ipsum dolor"
+      ]
+    },
+    "Gallery": [
+      {
+        "title": "Project Title",
+        "largeImage": "img/portfolio/01-large.jpg",
+        "smallImage": "img/portfolio/01-small.jpg"
+      },
+      {
+        "title": "Project Title",
+        "largeImage": "img/portfolio/02-large.jpg",
+        "smallImage": "img/portfolio/02-small.jpg"
+      },
+      {
+        "title": "Project Title",
+        "largeImage": "img/portfolio/03-large.jpg",
+        "smallImage": "img/portfolio/03-small.jpg"
+      },
+      {
+        "title": "Project Title",
+        "largeImage": "img/portfolio/04-large.jpg",
+        "smallImage": "img/portfolio/04-small.jpg"
+      },
+      {
+        "title": "Project Title",
+        "largeImage": "img/portfolio/05-large.jpg",
+        "smallImage": "img/portfolio/05-small.jpg"
+      },
+      {
+        "title": "Project Title",
+        "largeImage": "img/portfolio/06-large.jpg",
+        "smallImage": "img/portfolio/06-small.jpg"
+      },
+      {
+        "title": "Project Title",
+        "largeImage": "img/portfolio/07-large.jpg",
+        "smallImage": "img/portfolio/07-small.jpg"
+      },
+      {
+        "title": "Project Title",
+        "largeImage": "img/portfolio/08-large.jpg",
+        "smallImage": "img/portfolio/08-small.jpg"
+      },
+      {
+        "title": "Project Title",
+        "largeImage": "img/portfolio/09-large.jpg",
+        "smallImage": "img/portfolio/09-small.jpg"
+      }
+    ],
+    "Services": [
+      {
+        "icon": "fa fa-wordpress",
+        "name": "Lorem ipsum dolor",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      },
+      {
+        "icon": "fa fa-cart-arrow-down",
+        "name": "Consectetur adipiscing",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      },
+      {
+        "icon": "fa fa-cloud-download",
+        "name": "Lorem ipsum dolor",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      },
+      {
+        "icon": "fa fa-language",
+        "name": "Consectetur adipiscing",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      },
+      {
+        "icon": "fa fa-plane",
+        "name": "Lorem ipsum dolor",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      },
+      {
+        "icon": "fa fa-pie-chart",
+        "name": "Consectetur adipiscing",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      }
+    ],
+    "Testimonials": [
+      {
+        "img": "img/testimonials/01.jpg",
+        "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+        "name": "John Doe"
+      },
+      {
+        "img": "img/testimonials/02.jpg",
+        "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+        "name": "Johnathan Doe"
+      },
+      {
+        "img": "img/testimonials/03.jpg",
+        "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+        "name": "John Doe"
+      },
+      {
+        "img": "img/testimonials/04.jpg",
+        "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+        "name": "Johnathan Doe"
+      },
+      {
+        "img": "img/testimonials/05.jpg",
+        "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+        "name": "John Doe"
+      },
+      {
+        "img": "img/testimonials/06.jpg",
+        "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+        "name": "Johnathan Doe"
+      }
+    ],
+    "Team": [
+      {
+        "img": "img/team/01.jpg",
+        "name": "John Doe",
+        "job": "Director"
+      },
+      {
+        "img": "img/team/02.jpg",
+        "name": "Mike Doe",
+        "job": "Senior Designer"
+      },
+      {
+        "img": "img/team/03.jpg",
+        "name": "Jane Doe",
+        "job": "Senior Designer"
+      },
+      {
+        "img": "img/team/04.jpg",
+        "name": "Karen Doe",
+        "job": "Project Manager"
+      }
+    ],
+    "Contact": {
+      "address": "3rd Floor, Royal Hotel Lodge, My AIM Plaza, Near I.J.P Metro Bus Station, Pakistan.",
+      "phone1": "00923**554**50",
+      "phone2": "00923**554**50",
+      "email1": "kas****i.r***@gmail.com",
+      "email2": "kas****i.r***@gmail.com",
+      "facebook": "fb.com",
+      "twitter": "twitter.com",
+      "youtube": "youtube.com"
+    },
+    "Features": [
+      {
+        "icon": "fa fa-comments-o",
+        "title": "Lorem ipsum",
+        "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      },
+      {
+        "icon": "fa fa-bullhorn",
+        "title": "Lorem ipsum",
+        "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      },
+      {
+        "icon": "fa fa-group",
+        "title": "Lorem ipsum",
+        "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      },
+      {
+        "icon": "fa fa-magic",
+        "title": "Lorem ipsum",
+        "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      }
+
+
+    ]
+  }
+  
