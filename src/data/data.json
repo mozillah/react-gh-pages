@@ -1,17 +1,46 @@
 {
+
+
+
+
+
+
+
+
+"Hero":[
+
+  
+  {"title":"Vision",
+    "paragraph":"An internationally recognized testing and evaluation organization that enables it to produce educated and competitive market individuals."
+    ,"image":"img/hero-bg.jpg"}
+    ,  {"title":"Vision",
+      "paragraph":"An internationally recognized testing and evaluation organization that enables it to produce educated and competitive market individuals."
+      ,"image":"img/hero-bg.jpg"},
+      {"title":"Vision",
+        "paragraph":"An internationally recognized testing and evaluation organization that enables it to produce educated and competitive market individuals."
+        ,"image":"img/hero-bg.jpg"}
+]
+,
+
+
+
+
+
+
+
 "Objectives":[
   {
-  "title":"Lorem ipsum",
-  "paragraph":""
+  "title":"Quality Tests",
+  "paragraph":"Conducting effective, transparent and international quality tests to assess candidates' qualifications, abilities, training and employment"
   }, {
-  "title":"Lorem ipsum",
-  "paragraph":""
+  "title":"Operational gaps",
+  "paragraph":"Conducting research on education, technical and assessment programs to identify existing educational and operational gaps in programs"
   }, {
-  "title":"Lorem ipsum",
-  "paragraph":""
+  "title":"Development standards",
+  "paragraph":"Generating and disseminating information and research on education and technology development standards"
 },{ 
-  "title":"Lorem ipsum",
-  "paragraph":""
+  "title":"Capacity building",
+  "paragraph":"Capacity building of individuals and educational institutions through training and assessment"
 }
 ],
 "Beliefs":[
@@ -57,10 +86,7 @@
     "title":"Vision",
       "paragraph":"An internationally recognized testing and evaluation organization that enables it to produce educated and competitive market individuals."
   },
-    "Hero": {
-      "title": "Vision",
-      "paragraph": "An internationally recognized testing and evaluation organization that enables it to produce educated and competitive market individuals."
-    },
+    
     "About": {
       "Mission": "To develop and promote educational and professional testing and assessment standards.",
       "Why": [

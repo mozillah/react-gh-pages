@@ -1,0 +1,37 @@
+/* CSS used here will be applied after bootstrap.css */
+.putss {
+	color: red;
+}
+
+/*.peopleCarouselImg img {
+  width: auto;
+  height: 225px;
+  max-height: 225px;
+}*/
+
+.carousel {
+  max-height: 600px;
+  overflow: hidden;
+}
+
+.item img {
+    min-width: 100%;
+    height: auto;
+}
+
+.carousel-caption {
+  margin-bottom: 100px;
+}
+
+.carousel-inner>.item {
+	max-height: 600px;
+}
+
+.carousel-caption {
+	top: 50%;
+    transform: translateY(-50%);
+}
+
+.site-heading h2 {
+    color: #e03a3c;
+}

@@ -1,44 +1,33 @@
 
 import Carousel from 'react-bootstrap/Carousel'
+import Row from 'react-bootstrap/Row'
+import Col from 'react-bootstrap/Col'
+
+import "./Hero.css";
 export const Hero = (props) => {
     return (
 
-<Carousel>
-  <Carousel.Item>
-    <img
-      className="d-block w-100"
-      src="img/hero-bg.jpg"
-      alt="First slide"
-    />
-    <Carousel.Caption>
-      <h3>First slide label</h3>
-      <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
-    </Carousel.Caption>
-  </Carousel.Item>
-  <Carousel.Item>
-    <img
-      className="d-block w-100"
-      src="img/hero-bg.jpg"
-      alt="Second slide"
-    />
+<Carousel id="hero">
 
-    <Carousel.Caption>
-      <h3>Second slide label</h3>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-    </Carousel.Caption>
-  </Carousel.Item>
-  <Carousel.Item>
-    <img
-      className="d-block w-100"
-      src="img/hero-bg.jpg"
-      alt="Third slide"
-    />
 
-    <Carousel.Caption>
-      <h3>Third slide label</h3>
-      <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
+{props.data
+            ? props.data.map((d, a) => (
+              <Carousel.Item >
+                <img className="d-block w-100" src={d.image} alt={"Slide "+String(a)} />
+                <Carousel.Caption ><Row className="align-items-center"><Col>
+                <h2 style={{color:"red"}}> {d.title}</h2>
+      <h4 style={{color:"black"}}>{d.paragraph}</h4>
+  </Col>
+</Row>;
     </Carousel.Caption>
   </Carousel.Item>
+               
+))
+: 'loading'}
+
+
+
+
 </Carousel>
       
     )

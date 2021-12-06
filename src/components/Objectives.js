@@ -3,7 +3,7 @@ export const Objectives =(props)=>{
 
 
     return(
-        <section className="we-offer-area text-center bg-gray ">
+        <section id ="objectives" className="we-offer-area text-center bg-gray ">
         <div className="container">
             <div className="row">
                 <div className="col-md-12">
@@ -21,7 +21,7 @@ export const Objectives =(props)=>{
                         <div className="item">
                         <h4>{d.title}</h4>
                         <p>
-                           {d.title}
+                           {d.paragraph}
                             </p>
                         </div>
                     </div>

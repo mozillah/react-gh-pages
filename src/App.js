@@ -34,11 +34,10 @@ const App = () => {
   return (
     <div>
       <Navigation />
-      <Hero data={landingPageData.Hero} />
-      <Clients />
-
+      <Hero  data={landingPageData.Hero} />
       <Vision data={landingPageData.Vision}/>
       <Objectives data={landingPageData.Objectives} />
+      <Clients />
       <Features data= { landingPageData.Beliefs}/>
       {/* <Tabss/> */}
       <FAQs data={landingPageData.FAQS}/>
