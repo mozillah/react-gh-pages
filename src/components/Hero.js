@@ -8,17 +8,16 @@ export const Hero = (props) => {
     return (
 
 <Carousel id="hero">
-
-
-{props.data
+    {props.data
             ? props.data.map((d, a) => (
               <Carousel.Item >
-                <img className="d-block w-100" src={d.image} alt={"Slide "+String(a)} />
+                <img id="carousal-img" className="d-block w-100" src={d.image} alt={"Slide "+String(a)} />
                 <Carousel.Caption ><Row className="align-items-center"><Col>
-                <h2 style={{color:"red"}}> {d.title}</h2>
-      <h4 style={{color:"black"}}>{d.paragraph}</h4>
+                {d.title}
+                {/* <h2 style={{color:"red"}}> </h2> */}
+      {/* <h4 style={{color:"black"}}>{d.paragraph}</h4> */}
   </Col>
-</Row>;
+</Row>
     </Carousel.Caption>
   </Carousel.Item>
                

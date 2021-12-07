@@ -7,6 +7,7 @@ import { Hero } from "./components/Hero";
 import { About } from "./components/About";
 import { Footer } from "./components/Footer";
 import { Vision } from "./components/Vision";
+import { Mission } from "./components/Mission";
 import { Standard } from "./components/Standard";
 import { Tabss } from "./components/Tabss";
 import { FAQs } from './components/FAQs';
@@ -35,12 +36,14 @@ const App = () => {
     <div>
       <Navigation />
       <Hero  data={landingPageData.Hero} />
+
+      <Features data= { landingPageData.Beliefs}/>
       <Vision data={landingPageData.Vision}/>
       <Objectives data={landingPageData.Objectives} />
-      <Clients />
-      <Features data= { landingPageData.Beliefs}/>
-      {/* <Tabss/> */}
+      <Mission data={landingPageData.Mission} />
       <FAQs data={landingPageData.FAQS}/>
+      <Clients />
+      {/* <Tabss/> */}
       {/* <Standard data={landingPageData.About}/> */}
       {/* <Vision data={landingPageData.Vision}/> */}
        {/* <About data={landingPageData.About} /> */}

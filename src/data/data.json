@@ -3,22 +3,17 @@
 
 
 
-
-
-
-
 "Hero":[
 
-  
-  {"title":"Vision",
-    "paragraph":"An internationally recognized testing and evaluation organization that enables it to produce educated and competitive market individuals."
-    ,"image":"img/hero-bg.jpg"}
-    ,  {"title":"Vision",
+  {"title":"MeritoCracy",
+    "paragraph":"MeritoCray"
+    ,"image":"img/ajk-parliament1.jpg"}
+    ,  {"title":"Honesty",
       "paragraph":"An internationally recognized testing and evaluation organization that enables it to produce educated and competitive market individuals."
-      ,"image":"img/hero-bg.jpg"},
-      {"title":"Vision",
+      ,"image":"img/ajk-parliament2.jpg"},
+      {"title":"Transparency",
         "paragraph":"An internationally recognized testing and evaluation organization that enables it to produce educated and competitive market individuals."
-        ,"image":"img/hero-bg.jpg"}
+        ,"image":"img/ajk-parliament3.jpg"}
 ]
 ,
 
@@ -80,7 +75,12 @@
   "answer":"High quality testing of International Standards .Ensure merit based selection Justice for all.  KTS aims to conduct tests and assessments fairly and independently."
 }
 ]
+
 ,
+"Mission":{
+  "title":"Mission",
+    "paragraph":"To develop and promote educational and professional testing and assessment standards."
+},
 
   "Vision":{
     "title":"Vision",

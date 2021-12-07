@@ -79,7 +79,7 @@ body {
     box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
   }
   #header .logo {
-    font-size: 30px;
+    font-size: 18px;
     margin: 0;
     padding: 0;
     font-weight: 600;
@@ -311,7 +311,7 @@ body {
   # Sections General
   --------------------------------------------------------------*/
   section {
-    padding: 60px 0;
+    padding: 60px 0px;
     overflow: hidden;
     position: relative;
   }
@@ -435,14 +435,26 @@ padding: 40px 0px 0px 0px;
 
 
 
+/* .clients .swiper-slide img:hover {
+  opacity: 1;
+  filter: none;
+} */
 
 
 
 
 
 
-
-
+#vision {
+  padding: 60px 0px 0px 0px;
+  overflow: hidden;
+  position: relative;
+}
+#mission {
+  padding: 60px 0px 0px 0px;
+  overflow: hidden;
+  position: relative;
+}
 
   /*--------------------------------------------------------------
 # Features
@@ -605,7 +617,7 @@ padding: 40px 0px 0px 0px;
   }
   .tabs .nav-link {
     border: 1px solid #b9b9b9;
-    padding: 15px;
+    padding: 10px;
     transition: 0.3s;
     color: #111111;
     border-radius: 0;
@@ -615,7 +627,7 @@ padding: 40px 0px 0px 0px;
     cursor: pointer;
   }
   .tabs .nav-link i {
-    padding-right: 15px;
+    padding-right: 10px;
     font-size: 48px;
   }
   .tabs .nav-link h4 {
