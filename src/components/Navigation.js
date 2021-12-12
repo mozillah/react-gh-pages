@@ -3,7 +3,7 @@ export const Navigation = (props) => {
     return (
         <header id="header" className="fixed-top d-flex align-items-center">
         <div className="container d-flex align-items-center">
-          <h4 className="logo me-auto"><a href="index.html"><span>Kashmir Testing Service</span></a></h4>
+          <h4 className="logo me-auto"><a href="index.html"><span><img src="/img/KTSlogoTransp.png" /></span></a></h4>
           {/* <!-- Uncomment below if you prefer to use an image logo --> */}
           {/* <!-- <a href="index.html" className="logo me-auto"><img src="assets/img/logo.png" alt=""></a>--> */}
     

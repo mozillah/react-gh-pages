@@ -16,9 +16,10 @@ import {Clients} from "./components/Clients"
 // import './App.sass';
 import JsonData from "./data/data.json";
 import SmoothScroll from "smooth-scroll";
-import { Team } from './components/Team';
+// import { Team } from './components/Team';
 import { Objectives } from './components/Objectives';
 import { Contact } from './components/Contact';
+// import { Screens } from './components/Screens';
 
 
 export const scroll = new SmoothScroll('a[href*="#"]', {
@@ -43,6 +44,7 @@ const App = () => {
       <Mission data={landingPageData.Mission} />
       <FAQs data={landingPageData.FAQS}/>
       <Clients />
+      {/* <Screens/> */}
       {/* <Tabss/> */}
       {/* <Standard data={landingPageData.About}/> */}
       {/* <Vision data={landingPageData.Vision}/> */}

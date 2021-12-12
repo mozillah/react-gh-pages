@@ -9,9 +9,9 @@ export const Footer =(props)=>{
           {/* <br/> */}
           &copy; Copyright <strong><span>KTS</span></strong>. All Rights Reserved
         </div>
-        {/* <div className="credits"> */}
-          {/* Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a> */}
-        {/* </div> */}
+        <div className="credits">
+          Developed by <a href="#">Nebulark</a>
+        </div>
       </div>
       <div className="social-links text-center text-md-end pt-3 pt-md-0">
         <a href="#" className="twitter"><i className="bx bxl-twitter"></i></a>

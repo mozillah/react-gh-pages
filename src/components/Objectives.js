@@ -4,14 +4,19 @@ export const Objectives =(props)=>{
 
     return(
         <section id ="objectives" className="we-offer-area text-center bg-gray ">
+             <div className="section-title" >
+        <h2 style={{color: "#f8981d"}} >Objectives</h2>
+      </div>
         <div className="container">
-            <div className="row">
+            {/* <div className="row">
                 <div className="col-md-12">
                     <div className="site-heading text-center">
                         <h2><span>Objectives</span></h2>
                     </div>
                 </div>
-            </div>
+            </div> */}
+
+            
 
                 <div className="row our-offer-items less-carousel">
 

@@ -29,8 +29,9 @@
 
 #carousal-img{
   /* opacity: 0.15; */
-  transition: 0.3s;
-  filter: grayscale(20);
+  /* transition: 0.3s; */
+  /* filter: grayscale(0.2); */
+  filter: blur(3px);
 }
 .carousel-caption {
 	top: 40%;
@@ -42,6 +43,6 @@
     /* color:#111; */
 }
 
-.site-heading h2 {
+/* .site-heading h2 {
     color: #e03a3c;
-}
+} */

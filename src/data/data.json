@@ -39,16 +39,16 @@
 }
 ],
 "Beliefs":[
-{"title":"Equality","icon":"ri-bar-chart-box-line","color": "#5578ff"},
-{"title":"Validity","icon":"ri-calendar-todo-line","color": "#e80368"},
-{"title":"Commitment","icon":"ri-paint-brush-line","color": "#e80368"},
-{"title":"Accountability","icon":"ri-database-2-line","color": "#e80368"},
-{"title":"Commitment","icon":"ri-disc-line","color": "#e80368"},
-{"title":"Excellence","icon":"ri-anchor-line","color": "#e80368"},
-{"title":"Transparency","icon":"ri-anchor-line","color": "#e80368"},
-{"title":"Data protection","icon":"ri-price-tag-2-line","color": "#ffa76e"},
-{"title":"Customer focus","icon":"ri-file-list-3-line","color":"#11dbcf"},
-{"title":"Customer focus","icon":"ri-file-list-3-line","color": "#11dbcf"}
+{"title":"Equality","icon":"ri-bar-chart-box-line","color": "#f8981d"},
+{"title":"Validity","icon":"ri-calendar-todo-line","color": "#f8981d"},
+{"title":"Commitment","icon":"ri-paint-brush-line","color": "#f8981d"},
+{"title":"Accountability","icon":"ri-database-2-line","color": "#f8981d"},
+{"title":"Commitment","icon":"ri-disc-line","color": "#f8981d"},
+{"title":"Excellence","icon":"ri-anchor-line","color": "#f8981d"},
+{"title":"Transparency","icon":"ri-anchor-line","color": "#f8981d"},
+{"title":"Data protection","icon":"ri-price-tag-2-line","color": "#f8981d"},
+{"title":"Customer focus","icon":"ri-file-list-3-line","color":"#f8981d"},
+{"title":"Customer focus","icon":"ri-file-list-3-line","color": "#f8981d"}
 ]
 ,
 

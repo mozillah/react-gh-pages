@@ -68,12 +68,15 @@ export const Clients =(props)=>{
       
     return (
         <section id="clients" className="clients">
+               <div className="section-title" >
+        <h2 style={{color: "#f8981d"}} >CLIENTS</h2>
+      </div>
       {/* <div className="container" > */}
         {/* <div className="clients-slider swiper"> */}
         <Carousel className="swiper-wrapper align-items-center"
         // swipeable={true}
         // draggable={true}
-        showDots={true}
+        // showDots={true}
         responsive={responsive}
         ssr={true} // means to render carousel on server-side.
         infinite={true}
@@ -102,8 +105,7 @@ export const Clients =(props)=>{
         
       </Carousel>
 
-      {/* </div> */}
-      {/* </div> */}
+      
     </section>
     )
 }

@@ -3,11 +3,11 @@ return(
     <section id="contact" className="contact">
       <div className="container" >
 
-        <div className="section-title">
-          <h2>Contact</h2>
-          {/* <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea.</p> */}
-        </div>
-
+        {/* <div className="col-md-12"> */}
+        <div className="section-title" >
+        <h2 style={{color: "#f8981d"}} >CONTACT</h2>
+      </div>
+                {/* </div> */}
         <div className="row" >
 
           <div className="col-lg-6">

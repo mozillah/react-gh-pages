@@ -24,7 +24,7 @@ ul {
 }
 
 .site-heading h2 span {
-  color: #e03a3c;
+  color: #f8981d;
 }
 
 .site-heading h4 {
@@ -36,7 +36,7 @@ ul {
 }
 
 .site-heading h4::before {
-  background: #e03a3c none repeat scroll 0 0;
+  background: #f8981d none repeat scroll 0 0;
   bottom: 0;
   content: "";
   height: 2px;
@@ -66,13 +66,13 @@ ul {
 }
 
 .we-offer-area .our-offer-carousel .owl-dots .owl-dot.active span {
-  background: #e03a3c none repeat scroll 0 0;
-  border-color: #e03a3c;
+  background: #f8981d none repeat scroll 0 0;
+  border-color: #f8981d;
 }
 
 .we-offer-area .item {
   /* background: #ffffff none repeat scroll 0 0; */
-  border-left: 2px solid #e03a3c;
+  border-left: 2px solid #f8981d;
   /* -moz-box-shadow: 0 0 10px #cccccc;
   -webkit-box-shadow: 0 0 10px #cccccc;
   -o-box-shadow: 0 0 10px #cccccc; */
@@ -90,7 +90,7 @@ ul {
 }
 
 .we-offer-area.text-center .item i {
-  background: #e03a3c none repeat scroll 0 0;
+  background: #f8981d none repeat scroll 0 0;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   border-radius: 50%;
@@ -111,7 +111,7 @@ ul {
 }
 
 .we-offer-area.text-center .item i::after {
-  border: 2px solid #e03a3c;
+  border: 2px solid #f8981d;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   border-radius: 50%;
@@ -149,7 +149,7 @@ ul {
 
 .our-offer-carousel.center-active .owl-item:nth-child(2n) .item,
 .we-offer-area.center-active .single-item:nth-child(2n) .item {
-  background: #e03a3c none repeat scroll 0 0;
+  background: #f8981d none repeat scroll 0 0;
 }
 
 .our-offer-carousel.center-active .owl-item:nth-child(2n) .item i,
@@ -162,7 +162,7 @@ ul {
 }
 
 .we-offer-area .item i {
-  color: #e03a3c;
+  color: #f8981d;
   display: inline-block;
   font-size: 60px;
   margin-bottom: 20px;
@@ -188,7 +188,7 @@ ul {
 }
 
 .we-offer-area .item::after {
-  background: #e03a3c none repeat scroll 0 0;
+  background: #f8981d none repeat scroll 0 0;
   content: "";
   height: 100%;
   left: -100%;
@@ -219,11 +219,11 @@ ul {
 
 .we-offer-area.text-center .item:hover i {
   background-color: #ffffff !important;
-  color: #e03a3c !important;
+  color: #f8981d !important;
 }
 
 .we-offer-area.text-left .item i {
-  background: #e03a3c none repeat scroll 0 0;
+  background: #f8981d none repeat scroll 0 0;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   border-radius: 50%;
@@ -240,7 +240,7 @@ ul {
 }
 
 .we-offer-area.text-left .item i::after {
-  border: 2px solid #e03a3c;
+  border: 2px solid #f8981d;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   border-radius: 50%;
